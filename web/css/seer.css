@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+}
+table{
+    border-collapse: collapse;
+}
+div.part1{
+    width: 1920px;
+    height: 149px;
+    background-color: #d5effe;
+}
+div.part2{
+    position: absolute;
+    left: 100px;
+    top: 170px;
+}
+div.part3{
+    position: absolute;
+    right: 100px;
+    top: 170px;
+}
+select{
+    width: 200px;
+    height: 50px;
+}
+td#seer{
+    font-family: 幼圆;
+    font-size: 35px;
+    color: deepskyblue;
+
+}
